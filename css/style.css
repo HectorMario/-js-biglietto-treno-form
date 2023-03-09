@@ -1,0 +1,16 @@
+div.container-fluid.ms-background{
+    background-color: #B91450;
+    height: 100vh;
+}
+
+div.container.ms-background{
+    background-color: #fff;
+}
+
+div.col.ms-background{
+    background-color: #808080;
+}
+
+div.container.ms-height{
+    height: 80px;
+}
